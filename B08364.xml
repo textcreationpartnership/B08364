@@ -1,0 +1,277 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Alter amyntor:, or, The case fairly stated between King Charles I. and Dr. Gauden  Mr. Wagstaff and Mr. Toland, touching icon basilike.  With short notes</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08364</idno>
+            <idno type="STC">Wing A2929B</idno>
+            <idno type="STC">ESTC R224629</idno>
+            <idno type="EEBO-CITATION">64550858</idno>
+            <idno type="OCLC">ocm 64550858</idno>
+            <idno type="VID">184321</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08364)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184321)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2857:42)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Alter amyntor:, or, The case fairly stated between King Charles I. and Dr. Gauden  Mr. Wagstaff and Mr. Toland, touching icon basilike.  With short notes</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by J. Nutt, near Stationers-Hall,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Gauden, John, 1605-1662.</term>
+               <term>Wagstaff, --  Mr.</term>
+               <term>Toland, --  Mr.</term>
+               <term>Great Britain --  Politics and government --  1689-1702.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:184321:1" rendition="simple:additions"/>
+            <head>Alter AMYNTOR: Or the Caſe fairly Stated between King CHARLES I. and Dr. GAUDEN Mr. <hi>Wagſtaff</hi> and Mr. <hi>Toland,</hi> touching <hi>Icon Baſilike.</hi> With ſhort Notes.</head>
+            <div type="part">
+               <head>WITNESSES for the KING.</head>
+               <div type="testimony">
+                  <head>The Subſtance of a Letter from Mr. <hi>William Levet</hi> Senior Page of the Bedchamber to King <hi>Charles I.</hi> during his Solitude, to <hi>Seymour Bourman,</hi> Eſq; in <hi>Lin<g ref="char:EOLhyphen"/>colns-Inn-Fields.</hi>
+                  </head>
+                  <opener>
+                     <salute>Dear Brother,</salute>
+                  </opener>
+                  <p n="1">I. YOurs of the 21 of this Inſtant <hi>April</hi> I received, and one Letter before that to the ſame effect, <hi>viz.</hi> To give you a true account of my knowledge of <hi>Icon Baſilike's</hi> being compoſed by King <hi>Charles</hi> I. I can of my certain Knowledge depoſe that that Book was truly his own, having obſerved his Majeſty oftentimes writing his Royal Reſentments of the bold and inſolent Behaviour of his Soldiers (his Rebellious Subjects) when they had him in their Cuſtody. I waited on his Majeſty as Page of the Bed-chamber in Ordinary, during all the time of his Solitudes (except when I was forced from him); and eſpecially, being nominated by his Majeſty to be one of his Servants, among others, that ſhould attend him, during the Treaty at <hi>Newport</hi> in the <hi>Iſle of Wight,</hi> had the happineſs to read the ſame oftentimes in Manuſcript, under his Majeſty's own hand, being pleaſed to leave it in the Window in his own Bed-chamber, where I was always obliged to attend his Majeſties coming thither.</p>
+                  <closer>
+                     <dateline>From <hi>Sa<g ref="char:EOLhyphen"/>vernack</hi> Park, near <hi>Marlbrough</hi> 
+                        <date>
+                           <hi>April</hi> 29. 1691.</date>
+                     </dateline>
+                     <signed>Your Affectionate Brother to ſerve you <hi>WILLIAM LEVET.</hi>
+                     </signed>
+                  </closer>
+               </div>
+               <div type="testimony">
+                  <p n="2">II. <hi>This Teſtimony is further confirm'd by another of his in the poſſeſſion of his Son, Fellow of</hi> Exeter <hi>College in</hi> Oxon, <hi>in theſe Words.</hi> If any one has a de<g ref="char:EOLhyphen"/>ſire to know the true Author of a Book intituled <hi>Icon Baſilike,</hi> I, one of the Servants of King <hi>Charles</hi> I. in his Bed-chamber, do declare when his ſaid Majeſty was Priſoner in the <hi>Iſle of Wight,</hi> that I read over the above mention<g ref="char:EOLhyphen"/>ed Book (which was long before the ſame was Printed) in his Bed-chamber, writ with his Majeſties own hand, with ſeveral Interlinings. Morever his Majeſty King <hi>Charles</hi> the I. told me, <hi>Sure</hi> Levet, <hi>you deſign to get this Book by heart;</hi> having often ſeen me reading of it. I can teſtifie alſo, that <hi>Royſton</hi> the Printer told me that he was impriſon'd by <hi>Oliver Cromwel</hi> the Protector, becauſe he would not declare, that K C. I. was not the Author of the ſaid Book.</p>
+                  <closer>
+                     <signed>Signed and Sealed <date>October 16. 1690</date> WILLIAM LEVET.</signed>
+                  </closer>
+               </div>
+               <div type="testimony">
+                  <p n="3">III. Mr. <hi>Long,</hi> who was Prebendary of <hi>Exeter</hi> when Dr. <hi>Gauden</hi> was Bi<g ref="char:EOLhyphen"/>ſhop of that See, and continues ſtill Prebendary there, declares, in his Exami<g ref="char:EOLhyphen"/>nation of Dr. <hi>Walker's</hi> Account, <hi>That he has often heard Dr.</hi> Gauden <hi>when Biſhop of</hi> Exeter, <hi>affirm, that he was fully convinced that</hi> Icon Baſilike <hi>was in<g ref="char:EOLhyphen"/>tirely King</hi> Charles I<hi>'s Work.</hi> And mentions one Particular time, <hi>viz.</hi> on the 30 of <hi>January</hi> in the Evening in the Biſhops Parlour, ſtanding by the fire. This diſcourſe was occaſion'd by the Biſhop's having preached in the morning of that Day on <hi>Jonah</hi> 1.14. and Mr. <hi>Long</hi> in the Afternoon on <hi>Iſa.</hi> 49.23. on vvhich occaſion Mr. <hi>Long</hi> quoted ſeveral paſſages out of <hi>Icon Baſilike</hi> to ſhew the Piety, and Clemency of K.C I. for which the Bishop thank'd him, and then de<g ref="char:EOLhyphen"/>clared as above. This ſingle Teſtimony utterly deſtroys whatever Dr. <hi>Gauden</hi> ſays to the Contrary, as alſo what Mrs. <hi>Gauden,</hi> Dr. <hi>Walker</hi> or the <hi>Memo<g ref="char:EOLhyphen"/>randum</hi> ſay, they pretending to have received ail they ſay from Dr <hi>Gauden</hi> only.</p>
+               </div>
+               <div type="testimony">
+                  <head>The Subſtance of a Memorial ſent to Mr. <hi>Wagſtaff</hi> by Mr. <hi>Cudworth.</hi>
+                  </head>
+                  <p n="4">IV. Sir, in a Manuſcript of Sir <hi>Tho. Herbert,</hi> now in the Hands of Madam <hi>Ed<g ref="char:EOLhyphen"/>monds</hi> of <hi>Worsbrough</hi> in <hi>Yorkſhire,</hi> there is an account, that he having been one of the Grooms of his Majeſty's Bed-chamber, he took particular notice or moſt of his Majeſty's behaviour during his Solitude; and he tells you, that his Majeſty gave him ſome Books, and among the reſt the MS. Copy of <hi>Icon Baſilike</hi> writ with his own hand, which he knew very well.</p>
+               </div>
+               <div type="testimony">
+                  <p n="5">V. <hi>The Teſtimony of</hi> Richard Royſton <hi>the Kings Bookſeller</hi> is, this, That the <hi>October</hi> before the King (<hi>viz.</hi> K. C. I.) ſent a meſſage to him to prepare all things ready for the printing ſome papers which he purpoſed ſhortly af<g ref="char:EOLhyphen"/>ter to convey to him, and which was this very Copy of <hi>Icon Baſilike</hi> brought the twenty third of <hi>December</hi> next following.</p>
+               </div>
+               <div type="testimony">
+                  <p n="6">VI. <hi>The Teſtimony of Mr</hi> Thomas Milbourn <hi>printer in Jew-Inn-ſtreet, now living, is,</hi> That in the year 48. he was an Apprintice to <hi>John Griſman</hi> a p inter, when Mr. <hi>Symonds</hi> by Mr <hi>Royſton.</hi> ſent the King's Book to be printed, and that his Maſter did print it. That Mr. <hi>Symonds</hi> alvvys had the name of ſending it to the preſs; that it came to them as from the King, and they un<g ref="char:EOLhyphen"/>derſtood it no otherwiſe; that they had printed ſeveral other things with C. R. to them, and that it look'd to them like the ſame hand, and the ſame ſort of paper with others that were ſo mark'd, and look'd upon as the King's papers; for the King kept the Original by him, and Mr. <hi>Odert</hi> the Secretary tranſcribed them.</p>
+               </div>
+               <div type="testimony">
+                  <p n="7">VII. <hi>To the ſame part of with Mr.</hi> Milbourn <hi>Teſtifies Mr.</hi> Clifford, <hi>now liv<g ref="char:EOLhyphen"/>ing at the Chapter houſe at</hi> St Paul's who <hi>aſſiſted Mr.</hi> Milbourn <hi>in the printing it, with this farther addition.</hi> That the King intitled his Book <hi>the Royal Plea.</hi> but <hi>Dr. Jeremiah Taylor,</hi> coming accidentally to Mr. <hi>Royſton's</hi> Shop, he having an aſſured confidence in him, ſhewed him the firſt proof from the preſs, which when the Dr. Viewed under that title, he told him the Title would betray the Book — That Dr <hi>Tayor</hi> wrote to the King, to let him know that it would be in Danger of Suppreſſing by two Informers, <hi>Chriſenham</hi> and <hi>Jones,</hi> who would underſtand the Book by the Title: and therefore he thought <hi>Icon Baſilike</hi> would be a better Title, and leſs taken notice of by the Infor<g ref="char:EOLhyphen"/>mers, being Greek, and agreeing with the Title of his fathers Book, call'd <hi>Baſilikon Doron,</hi> and to which the King conſented — <hi>and adds farther,</hi> That he never heard; nay, that he is ſure, that Dr. <hi>Gauden</hi> never was concern'd in that Copy, by which <hi>Milbourne</hi> and himſelf printed it, and that they had no part of the Copy from Dr <hi>Walker,</hi> for it was that tranſcribed by Mr <hi>Odert,</hi> (the King's Secretary) they printed it by.</p>
+               </div>
+               <div type="testimony">
+                  <p n="8">VIII. Mr. <hi>Barry</hi> Councellor of <hi>Grays-inn,</hi> in a Letter to a friend dated <hi>April</hi> 28. 1699. <hi>has a Memorable Story,</hi> which in ſubſtance is this, <hi>That Sir</hi> William Morton <hi>told him that King</hi> Charles. I. <hi>marching his Army</hi> near <hi>Stow in</hi> Glouceſter<g ref="char:EOLhyphen"/>ſhire, <hi>(upon an occaſion too long here to relate) gave Sir</hi> William <hi>(who was then a Colonel under him, and afterwards a Judge) a paper out of his Pocket to write an Order upon to Sir</hi> William Vavaſor, <hi>upon which were writ the following words with the King's own hand:</hi> As to the Rebels taking of my Letters, as it was an advantage they could not well expect, ſo they knew not how with civility to uſe, for always amidſt the greateſt advantages are the greateſt obligations, and ſuch ſhould I have eſteemed the concealment of my Letters, which challenge a privacy from all who are not wholly barbarous. <hi>Which very Words begin his Chapter occaſion'd by the Parliaments publiſhing his Letters taken at</hi> Edge-Hill <hi>fight.</hi>
+                  </p>
+               </div>
+               <div type="testimony">
+                  <p n="9">IX. Mrs. <hi>Ellen Spanne,</hi> formerly Wife of the Reverend Mr. <hi>Edward Symonds,</hi> Rector of <hi>Rayne,</hi> depoſes in ſubſtance, That about the year 48, ſhe ſaw her Husband, Mr. <hi>Symonds,</hi> reading ſome Papers writ in a hand ſhe did not know, and thereupon ſhe asked him whoſe they were, and he told her, with ſome caution, that they were the Kings, and that he muſt get them printed: which ſhe declares, her Husband told Dr. <hi>Bathurſt</hi> his Phyſician (who importuned him to declare the truth in that matter) as he (her Husband) was upon his death Bed, he did, and that it was intirely the King's Book, he having printed it juſt as it came from the King without Addition or Diminuti<g ref="char:EOLhyphen"/>on: And this ſhe atteſts under her hand to be the truth, and that ſhe verily believes <hi>Icon Baſilike</hi> to be the King's, tho ſhe was told by one Mr. <hi>Robinſon</hi> behind the <hi>Exchange,</hi> that it would be for her advantage to ſay that her Hus<g ref="char:EOLhyphen"/>band was the Author of it.</p>
+                  <closer>
+                     <signed>Ellen Spanne.</signed>
+                     <signed>
+                        <hi>Sign'd</hi> 
+                        <date>Feb. 15. 91/2.</date> 
+                        <hi>in the Preſence of</hi>
+                        <list>
+                           <item>Rich. Hughes.</item>
+                           <item>Tho. Spanne.</item>
+                        </list>
+                     </signed>
+                  </closer>
+               </div>
+               <div type="testimony">
+                  <head>The Subſtance of a Letter from Dr <hi>Canaries</hi> now in the hands of Mr. <hi>Wagſtaff.</hi>
+                  </head>
+                  <p n="10">X. Mr. <hi>James Wood</hi> being ſent by the Kirk of <hi>Scotland</hi> to treat with King <hi>Charles</hi> the II. at <hi>Breda,</hi> that King took him aſide and ſaid, <hi>Mr. Wood, I hear that ſome are pleaſed to ſay that my Father was not the Author of</hi> Icon Baſilike; <hi>but it is no great wonder that thoſe, who have been ſo injurious to him in all other reſpects, ſhould not ſpare his Memory in an Affair of this Nature; however I will let you ſee how great a Calumny this is.</hi> Whereupon the King took Mr. <hi>Wood</hi> into his Cloſet with him, and there he ſhew'd him <hi>the whole Book writ<g ref="char:EOLhyphen"/>ten all in his Fathers hand, together with a Letter from his Father concerning it to him:</hi> then the King ſaid, <hi>But, Mr.</hi> Wood, <hi>that you may not entertain any ſcruple about the hand, here are ſeveral of my fathers Letters to me, all written in his own hand, take any of them, and compare the hands together. So</hi> Mr. Wood compar'd the hands, and then ſaid to the King, <hi>That he was fully con<g ref="char:EOLhyphen"/>vinc'd, that the Book and the Letter about it, were all written in his Fathers hand.</hi> Upon which the King ſaid to him, <hi>Now, Mr.</hi> Wood, <hi>I appeal to you, whether or no my Father would have ever written over a Book, that was not his own, and have ſent ſuch a Letter to me about it.</hi> Mr. <hi>Wood</hi> anſwer'd, <hi>that he was highly oblig'd to his Majeſty for the honour he had done him, in having ſhew'd him ſuch Authentick proof of his Father's being the Author of that Book: he had indeed heard that ſome perſons did queſtion it; but now he was ſo par<g ref="char:EOLhyphen"/>ſwaded of the truth of it, that he thought himſelf oblig'd in conſcience to do the King his Father juſtice, by vindicating his Memory in that point, as he ſhould have any occaſion for doing it.</hi>
+                  </p>
+                  <p>After Mr. <hi>Wood</hi>'s return to <hi>Scotland,</hi> he told my Father, who was very inti<g ref="char:EOLhyphen"/>mate with him, <hi>That he was as much convinced that King</hi> Charles <hi>the Firſt was the Auhor of that Book, as he could be that one was the Author of a Book which he had not ſeen him write.</hi> This account I had many times from my Father; and in the Words and Circumſtances wherein I have ſet it down, as near as I can poſſibly remember. And as to what concerns my ſhare in this Teſtimony namely that I had it from my Father, I am ready to depoſe it upon Oath before any Court of Judicature in the World, whenſoever I ſhall be called to do it. And, Sir, I allow you to make any uſe of this you ſhall think convenient.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Abingdon</hi> in <hi>Berks</hi> 
+                        <date>
+                           <hi>July</hi> 17th 1693.</date>
+                     </dateline>
+                     <salute>I am Sir </salute>
+                     <signed>your moſt humble Servant JAMES CANRIES</signed>
+                  </closer>
+               </div>
+               <div type="testimony">
+                  <head>The Subſtance of a Letter from <hi>Mr. Le Pla</hi> Miniſter of <hi>Finchingfield,</hi> to Dr. <hi>Goodall. Nov.</hi> 27. 1696.</head>
+                  <p n="11">XI. Sir, <hi>William Allen</hi> Servant to Dr. <hi>Gauden</hi> during the Civil Wars, and afterwards married to one of the Drs. Family, gave me this following ac<g ref="char:EOLhyphen"/>count of his own knowledge touching the King's Book. <hi>He ſaid moſt people thought his Maſter to be the Author of it,</hi> or to that purpoſe. I told him <hi>I could never believe it, for ſome reaſons I then gave him.</hi> Whereupon he ſmiled and told me, <hi>He believed he could ſay more to that buſineſs than any man beſides him, for that Dr.</hi> Gauden <hi>told him he had borrowed the Book, and was oblig'd to return it by ſuch a time; That (beſides what other time he might imploy in it) he ſat up one whole night to tranſcribe it. That he</hi> (William Allen) <hi>ſat up in the Chamber with him, to wait upon him, to make his fires and ſnuff his Candles.</hi> This I am ready to depoſe, if required. I think he ſaid <hi>the Book was borrow<g ref="char:EOLhyphen"/>ed of Mr.</hi> Symonds <hi>of</hi> Rayne <hi>one of the Kings Chaplains;</hi> but it being ſome time ago, I cannot be ſo poſitive in that, and ſeveral other Circumſtances as I ſhould have been, had I ſuſpected his death ſo nigh. One thing I had for<g ref="char:EOLhyphen"/>got, viz. <hi>That to my knowledge</hi> Allen <hi>could read and write very well, and ſo could not eaſily be deceived, either in the Book, or in his Maſters hand, tho' the Doctor had not told him that it was none of his.</hi>
+                  </p>
+                  <p n="12">XII. <hi>Mr. Richard Duke's</hi> Letter to Dr. <hi>Charles Goodall, June</hi> 15. 1692 <hi>in theſe Words.</hi> Sir, I heard Major <hi>Huntington</hi> ſay more than once. That whileſt he Guarded <hi>Charles</hi> I. at <hi>Holmby-houſe</hi> (as I remember) he ſaw ſeveral Chapters or Leaves of that great Kings Meditations, lying on the Table ſeveral Mornings, with a Pen and Ink with which the King ſcratched out or blotted ſome lines or words of ſome of them: Upon which I muſt alſo con<g ref="char:EOLhyphen"/>feſs, that I concluded they were originally from the King; but others have drawn a contrary Argument from the King's correcting the Papers; yet I put this under my Hand, that the Major told me that he did ſuppoſe them originally from that learned Prince, Which is the <hi>totum</hi> that can be intimated from</p>
+                  <closer>
+                     <salute>Sir,</salute>
+                     <signed>your humble Servant RICHARD DUKE.</signed>
+                  </closer>
+               </div>
+               <div type="testimony">
+                  <p n="13">XIII. <hi>To the ſame purpoſe Mr.</hi> Cave Beck <hi>in a Letter to Dr.</hi> Hollingworth, <hi>thus;</hi> Major <hi>Huntington</hi> at <hi>Ipſwich</hi> aſſured me, that ſo much of <hi>Icon Baſilike,</hi> as contained his Majeſty's Meditations before <hi>Navesby</hi> Fight, was taken in the Kings Cabinet; and that Sir <hi>Tho. Fairfax</hi> delivered the ſaid papers unto him, and ordered him to carry them to the King: and alſo told me that when he delivered them to the King, his Majeſty appear'd very joyful, and ſaid He eſteem'd them more than all the Iewels he had loſt in the Cabinet.</p>
+               </div>
+               <div type="testimony">
+                  <p n="14">XIV. <hi>Which Teſtimonies are recapitulated by Sir</hi> William Dugdale, <hi>a moſt faithful Hiſtorian</hi> in his ſhort view of the late troubles in England (p. 380.) To which large, full and particular account of his I refer the Reader.</p>
+               </div>
+               <div type="testimony">
+                  <p n="15">XV. Beſides theſe there are the Teſtimonies of two Authors, Eye and Ear witneſſes of <hi>Charles</hi> I. his being Author of <hi>Icon Baſilike,</hi> who in the year 49, immediately after <hi>Milton's Iconoclaſtes</hi> and other Pamphlets came out, writ in Vindication of the K's Book, and were never anſwer'd, their Aſſertations being then taken as full proof of the matter of Fact. The one Intituled <hi>Icon be piſte,</hi> has theſe remarkable Words; <hi>The Author</hi> (viz. of <hi>Icon alethine,</hi> a virulent pamphlet) <hi>might have informed himſelf of divers, who have ſeen the Origi<g ref="char:EOLhyphen"/>nal Copy manuſcribed by the King himſelf, he might have ſeen it himſelf for asking.</hi> And afterwards, <hi>I take it to be the Kings Book, I am ſure of it, I knew his hand. I have ſeen the Manuſcript, I have heard him own it.</hi> The other was the Author of a Book call'd <hi>the Princely Pelican</hi> writ on purpoſe (as he ſays) to ſatisfie the world that the King was Author of <hi>Icon Baſilike.</hi> In p. 4. he has theſe Words, <hi>He</hi> (the King) <hi>was pleaſed ſome few days after he had retired from his Parliament, to communicate his thoughts in his Garden at</hi> Theobald<hi>'s, to ſome of his Gentlemen who were neareſt to him, and of whoſe intimacy and abilities he ſtood moſt confident, how he had ſet pen to paper to vindicate his innocency, in the firſt place, by ſhewing the Reaſons he had of receding from the Parliament, and that not ſo much as one line had fallen from his pen, which with Honour he might not confirm: And then told us his next Eſſay ſhould take its diſcourſe from the faithfulleſt Servant and moſt incomparable Stateſman that any Prince could rely on,</hi> meaning the E. of <hi>Strafford,</hi> and then gives us the Kings particular diſcourſe, <hi>condemning himſelf for ſuffering his hand to thwart the reſolu<g ref="char:EOLhyphen"/>tion of his heart, &amp;c.</hi> And particularly writes at large the Diſcourſes of his Attendants on that Subject with his Majeſty. He tells us further (p. 19.) <hi>that the King told him, that as his morning Devotions took up the firſt part of the day, ſo he ever reſerved the next for theſe Meditations he had now in hand.</hi> The Author yet further tells us, p. 21.) That at Navesby, <hi>thoſe Divine Meditations were ſiezed by the Enemy, with other Papers of concern, being incloſed in a Cabinet re<g ref="char:EOLhyphen"/>ſerved for that purpoſe; and that by the Benignity of the Conqueror, or Divine Providence rather, it was recovered above all Expectance, and returned to his Majeſty's hand; and which infinitely cheered him.</hi> And further (p. 22.) <hi>That a Perſon of high Command in the Rebel Army gave this cenſure of it, Saying,</hi> It was an Handſome piece of Hypocriſie.</p>
+               </div>
+               <div type="testimony">
+                  <p n="16">XVI. To theſe are added uſually, ſome Expreſſions Drawn from the Book it ſelf, which ſhow that no man Living but the King himſelf could write it; but being too many to inſert here I ſhall refer the Reader to a Book in<g ref="char:EOLhyphen"/>tituled <hi>The Vindication</hi> of King <hi>Charles</hi> the Martyr, for ſatisfaction in that, Point.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>WITNESSES for Dr. <hi>Gauden.</hi>
+               </head>
+               <div type="testimony">
+                  <p n="1">I. <hi>Dr.</hi> Gauden's <hi>Wife, who is ſaid to have left behind her ſome Papers in which the following account, they ſay, is found:</hi> 1ſt a Letter to my Lord Chancel<g ref="char:EOLhyphen"/>lor <hi>Hyde Decemb.</hi> 28. 1661, and a Copy of a Petition to the King, ſet<g ref="char:EOLhyphen"/>ting forth how kind he had been to his Fathers Friends, and urging That what was done as a King ſhould have a King-like Retribution. Another Letter there is to the Duke of <hi>York,</hi> dated <hi>Jan.</hi> 17. 1661. urging his great Services. As alſo a Letter from the Lord Chancellor <hi>Hyde</hi> to the Biſhop, of the Chancellor's Hand-writing, dated March. 13. 1661. Importing the Receit of ſeveral Letters from him, that he was uneaſie under the Biſhops importunity. And towards the Cloſe hath this expreſſion; The particular you mention has indeed been imparted to me as a Secret, I am ſorry I ever knew it; and when it ceaſes to be a Secret, it will pleaſe none but Mr. <hi>Milton.</hi>
+                  </p>
+                  <p>Among theſe Papers there is ſaid to be, A Letter of Mrs. <hi>Gauden's</hi> after the Death of her Husband, to her Son <hi>John Gauden,</hi> in which ſhe ſpeaks of the Book commonly called the King's Book, and calls it the Jewel, and adds, Her Husband hoped to make a Fortune by it, and wonders it ſhould be doub<g ref="char:EOLhyphen"/>ted whether her Husband wrote it; but ſays, ſhe has a Letter of a very great Man to clear it up. There is alſo (ſaid to be) a long Narrative of Mrs. <hi>Gauden</hi>'s Hand-writing, ſhewing, that her Husband wrote the Book, and ſent it to her Son with the Letter. This Narrative ſets forth, that after her Husband had wrote the Book, he ſhewed it to the Lord <hi>Capel,</hi> who approved it, and was for the Printing it, but wiſhed the King might have a ſight of it: that an opportunity was taken to convey it to his Majeſty by the Lord Marqueſs of <hi>Hertford,</hi> when he went to the Treaty at the <hi>Iſle of Wight.</hi>
+                  </p>
+                  <p>That the Marqueſs after his return from thence, told her Husband, that he gave the Book to the King, and his Majeſty did well like it, but was for putting of it out, not as his own, but anothers; but it being urged, that <hi>Cromwel</hi> and others of the Army, having got a Reputation with the People for Parts and Piety, it would do beſt to be in the King's name. His Majeſty took time to conſider of it.</p>
+                  <p>That her Husband not hearing the King's Pleaſure about it, and finding Dangers haſtning on him, he having kept a Copy by him, ſent it by one Mr. <hi>Symonds</hi> to the Preſs, together with a Letter: That Mr. <hi>Royſton</hi> was the Printer, but did not know but the King wrote it: That part was ſeized in the Preſs, together with her Husband's Letter, and Mr. <hi>Symonds</hi> was taken. That nevertheleſs the Work was carried on and finiſhed a few days after his Majeſty's Death; that when it was Publiſhed the Parliament was inraged; and her Husband, conceiving his Life and Eſtate in danger, fled to Sir <hi>John Went<g ref="char:EOLhyphen"/>worth</hi>'s near <hi>Yarmouth,</hi> intending thence to paſs the Seas, but Mr. <hi>Symonds</hi> falling ſick, and dying, and her Husband not being diſcovered, he altered his purpoſe, and returned home.</p>
+                  <p>That the Title firſt intended, was <hi>Suſpiria Regalia,</hi> but changed to <hi>Icon Baſilike;</hi> and that there were two Chapters added.</p>
+                  <p>That the Marqueſs of <hi>Hertford,</hi> and the Lord <hi>Capel,</hi> Biſhop <hi>Duppa,</hi> and Biſhop <hi>Morley,</hi> were at firſt the only perſons privy to it.</p>
+                  <p>That Dr. <hi>Duppa</hi> Biſhop of <hi>Wincheſter</hi> being very ſick, her Husband went to the King, and acquainted him that he was the Author of that Book, and for the truth thereof appealed to Biſhop <hi>Duppa</hi> his Majeſty's Tutor, who was yet living, and made an Apology for Printing it without his Majeſty's Father's Order, or his, but pleaded the Circumſtances of Time, and the King's Danger; that his Majeſty told her Husband, That till then he never knew that he wrote it, but thought it was his Father's, yet wondred how he could have time, and obſerved, that it was wrote like a Scholar, as well as like a King: and ſaid, if it had been publiſhed ſooner, it might have ſaved his Fathers life: that at the ſame time the King gave him a promiſe of the Biſhoprick of <hi>Wincheſter.</hi>
+                  </p>
+                  <p>That he afterwards acquainted the Duke of <hi>York</hi> that he was the Author, &amp;c. <hi>This is the Summ and Subſtance of Mrs.</hi> Gauden<hi>'s Evidence.</hi>
+                  </p>
+               </div>
+               <div type="testimony">
+                  <p n="2">II. <hi>The next is Dr.</hi> Walker, <hi>the Subſtance of whoſe Evidence is as follows:</hi> 1ſt That Dr. <hi>Gauden,</hi> ſometime before the whole was finiſhed, acquainted him with his Deſign, and ſhew'd him the Heads of divers Chapters, and ſome of the Diſ<g ref="char:EOLhyphen"/>courſes written of them, and after ſometime ſpent in the peruſal, he asked his Opinion concerning it; and he (Dr. <hi>Walker</hi>) told him he ſuppoſed it would be for the King's Reputation, but he expreſly added he ſtuck at the Lawful<g ref="char:EOLhyphen"/>neſs of it: and ask'd him how he ſatisfied himſelf to impoſe upon the World. To which he reply'd, Look upon the Title, 'tis <hi>the pourtraicture,</hi> &amp;c. and no man draws his own Picture, &amp;c. That he explained to him a paſſage in the Se<g ref="char:EOLhyphen"/>cond Chapter, and that he meant it of Dr. <hi>Jaxon.</hi>
+                  </p>
+                  <p n="2">2 That he went with Dr. <hi>Gauden</hi> to the Biſhop of <hi>Salisbury's,</hi> and as they came back Dr. <hi>Gauden</hi> told him, the Biſhop had promiſed to write two Chapters more to be added to the Book, viz. that on <hi>the Ordinance againſt the Common Prayer,</hi> and <hi>the denying his Majeſty the Attendance of his Chaplains.</hi>
+                  </p>
+                  <p n="3">3. Upon Dr. <hi>Walker</hi>'s asking Dr. <hi>Gauden</hi> after the King was murdered whether the King had ever ſeen the Book, Dr. <hi>Gauden</hi> anſwered, I know it certainly no more than you, but I uſed I my beſt Endeavours that he might, for I delivered a Copy of it to the Marqueſs of <hi>Hertford</hi> when he went to the treaty at the <hi>Iſle of Wight,</hi> and intreated his Lordſhip, if he could obtain any private Opportunity, he would deliver it to his Majeſty, and hum<g ref="char:EOLhyphen"/>bly deſire to know his Majeſty's Pleaſure concerning it. But the violence which threatned the King haſtning ſo faſt, he ventured to print it, and never knew what was the iſſue of ſending it, for when the thing was done, he judg<g ref="char:EOLhyphen"/>ed it not prudent to make further noiſe about it by enquiry.</p>
+                  <p n="4">4. Dr. <hi>Walker</hi> asking him And adds in a Parentheſs; For we ſeldom were in private but ſomewhat was diſcourſed of this Book, even to the laſt time I ſaw him after he was Lord Biſhop of <hi>Worceſter</hi> elect) whether King <hi>Charles</hi> II. knew that he wrote it. He anſwered, I cannot poſitively and certainly ſay he doth, becauſe he was never pleaſed to take expreſs notice of it to me; but I take it for granted he doth, for I am ſure the Duke of <hi>York</hi> doth, for he hath ſpoken of it to me, and owned it as a ſeaſonable and acceptable ſervice; and he knowing it, I queſtion not but the King alſo doth.</p>
+                  <p n="5">5. Mrs. <hi>Gauden</hi> the Drs. Wife, Mr. <hi>Gifford</hi> and Dr. <hi>Walker</hi> believed it as much as they could believe any thing, and were as much aſſured of it as 'tis poſſible they could be of any matter of fact.</p>
+                  <p n="6">6. Dr. <hi>Gauden</hi> delivered to him with his own hand what was laſt ſent up, (after part was printed, or at leaſt in Mr <hi>Royſton's</hi> hand to be printed) and after he had ſhevved it him and ſealed it up, gave him caution to deliver it, which he did on Saturday <hi>December</hi> 23. 48. in the Evening, according to directi<g ref="char:EOLhyphen"/>on, to one <hi>Peacock,</hi> (Brother to Dr. <hi>Gauden's</hi> Steward) who was inſtructed by vvhat hands to deliver it to Mr. <hi>Royſton,</hi> and in the ſame manner, as the Impreſſion vvas finiſh'd, he receiv'd ſix Books by the hand of <hi>Peacock</hi> as an ac<g ref="char:EOLhyphen"/>knovvledgement, and one of them he hath ſtill by him.</p>
+               </div>
+               <div type="testimony">
+                  <p n="3">III. King <hi>Charles</hi> II. and the Duke of <hi>York</hi> did both in the laſt Seſſion of of Parliament 1675. (when I ſhewed them in the Lords Houſe the written Co<g ref="char:EOLhyphen"/>py of this Book, vvherein are ſome Corrections vvritten with the late K. <hi>Char<g ref="char:EOLhyphen"/>les</hi> I's ovvn hand) aſſure me, that this vvas none of the ſaid King's compiling, but made by Dr. <hi>Gauden</hi> Biſhop of <hi>Exeter,</hi> which I here inſert for the undecei<g ref="char:EOLhyphen"/>ving others in this point, by atteſting ſo much under my hand. ANGLESEY.</p>
+                  <p>As to this Memorandum, no man that has not bid an utter defiance to reaſon, can believe it to have been written by my Lord <hi>Angleſey;</hi> 1. Becauſe, my Lord, who underſtood as well as any man living what would paſs for good Evi<g ref="char:EOLhyphen"/>dence, would never have left it unatteſted and with ſo uncertain a Date, if he had deſign'd to <hi>undeceive the World by it,</hi> as the Memorandum pretends. 2. If he had deſign'd <hi>to undeceive the World,</hi> he would not have taken ſuch extraordinary care <hi>to hide it from the World,</hi> as appears by his never having communicated it to his Counteſs, His Children, his Relations, his Friends, nor any Body elſe that we can hear of, but hiding it in the vacant Page of a Book, and then putting it up again into its place in his Study, leaving it to ten thouſand chances whether it ſhould ever be ſeen or no; and indeed I verily believe, had any body beſide, Mr. <hi>Millington</hi> had the ſelling my Lords Liberary, it never had been ſeen. But it Mr. <hi>Millington</hi> will Pardon me, I will offer one probable conjecture why he might be more diligent in finding it out than any body elſe. It might be to remove part of the Odium which lies upon the Name, by his —<hi>Gilbert Millington</hi>'s having been one of the Judges of the High Court of Ju<g ref="char:EOLhyphen"/>ſtice, and who was preſent at the Tryal and Condemnation of King <hi>Charles</hi> I. Author of <hi>Icon Baſilike,</hi> for which after the Reſtoration he was try'd and receiv'd ſentence of Death.</p>
+                  <p>Laſtly, To aſperſe the memory of K. <hi>Charles</hi> I. it has been alledged that <hi>Pamela</hi>'s Prayer is taken word for word out of <hi>Pembroke's Arcadia.</hi> To which it has been anſwer'd, That it was not in the firſt Editions of the Book, and therefore could not be Printed by the King's order: But that one <hi>Dugard,</hi> a friend of <hi>Milton's,</hi> being taken print<g ref="char:EOLhyphen"/>ing the Book, which was at that time a very high crime, made his application to <hi>Milton,</hi> who together with <hi>Brad<g ref="char:EOLhyphen"/>ſhaw,</hi> told him they would procure his Pardon, and Liberty, provided he would put <hi>Pamela</hi>'s Prayer into it, which accordingly he did, and was ſet free, and this is atteſted by Dr. <hi>Bernard</hi> and Dr. <hi>Gill.</hi> who had it from one Mr. <hi>Hill</hi> Printer to <hi>Oliver</hi> and the Army. And Mr. <hi>Hooker,</hi> Corrector in 1648 to Mr. <hi>Dugard</hi>'s Preſs, depoſed before Mr. <hi>W —ff</hi> March, 30, 91. <hi>Trat Icon Baſilike was Printed at Mr.</hi> Dugard's <hi>Preſs, and that he (Mr.</hi> Hooker) <hi>corrected the ſame: That Mr.</hi> Dugard <hi>being known, was thrown into Priſon, and turn'd out of his Place of</hi> Merchant Taylors <hi>School, and that Mr.</hi> Hooker, <hi>to ſave himſelf, went to Travel for ſeveral Years.</hi> Yet ſuch is the Infatuation of ſome people, that they are ſure King <hi>Charles</hi> I. <hi>could not be the Author of</hi> Icon Baſilike, but ſtrenuouſly aſſert him to have made uſe of this Prayer, and that he cauſed it to be Printed: For this only reaſon, as may be ſuppoſed, That the <hi>firſt</hi> would redound to his <hi>Reputation,</hi> the <hi>Letter</hi> to his <hi>Diſgrace.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Short <hi>NOTES</hi> upon the <hi>Evi<g ref="char:EOLhyphen"/>dence</hi> for Dr. <hi>GAUDEN.</hi>
+               </head>
+               <p n="1">1. <hi>Mr. Wagſtaff</hi> has ju<g ref="char:EOLhyphen"/>diciouſly obſerv'd that Mrs. <hi>Gauden</hi> and Dr. <hi>Walker</hi> contradict one an<g ref="char:EOLhyphen"/>other in thirteen particu<g ref="char:EOLhyphen"/>lars of chief matter of Fact.</p>
+               <p n="2">2. 'Tis not likely that the E. of <hi>Angleſey.</hi> Dr. <hi>Gauden</hi> himſelf, or any o<g ref="char:EOLhyphen"/>ther communicated the Secret of Dr. <hi>Gauden's</hi> be<g ref="char:EOLhyphen"/>ing the Author, to King Ch. II. or the D. of <hi>York:</hi> or if it was communicated to them, 'tis certain they did not believe it true; as appears by both their Letters Patent to Mr. <hi>Royſton</hi> and Mr. <hi>Chiſwell</hi> for Printing <hi>Icon Baſilike</hi> as their Fathers.</p>
+               <p n="3">3. 'Tis very probable the whole Evidence for Dr. <hi>Gauden</hi> is pure contri<g ref="char:EOLhyphen"/>vance, and deſign'd on purpoſe to bring a diſcre<g ref="char:EOLhyphen"/>dit upon the Memory of King <hi>Ch.</hi> I. which, is the rather to be believ'd be<g ref="char:EOLhyphen"/>cauſe theſe upſtart Evi<g ref="char:EOLhyphen"/>dence never appear'd till King <hi>Ch.</hi> I. and my Lord <hi>Capel</hi> were murder'd; my Lord Chancellor <hi>Hide,</hi> the Marquiſs of <hi>Hertford, Mr. Odert</hi> the Kings Secretary who tranſcribed it for the King, <hi>Mr. Symonds</hi> who brought it to Mr. <hi>Royſton</hi> to Print, Biſhop <hi>Morley,</hi> and all thoſe they thought could contradict them in it, were Dead.</p>
+               <p n="4">4. Dr. <hi>Gauden</hi> himſelf, after the Reſtoration, and after he was Biſhop of <hi>Exeter,</hi> did often declare to Mr. <hi>Long,</hi> then and now Prebendary of that Church, <hi>That he was fully convinc'd that</hi> Icon Baſilike <hi>was intirely King</hi> Charles the I<hi>'s. Work;</hi> and this has been and is ſtill ready to be atteſted by Mr. <hi>Long.</hi>
+               </p>
+               <p n="5">5. 'Tis not likely that Dr. <hi>Gauden,</hi> if he had had ſuch a Deſign, would have truſted Dr. <hi>Walker</hi> with the Secret, whom he knew to be an Enemy to that King and his Cauſe.</p>
+               <p n="6">6. Should all that theſe Witneſſes and Memorandum ſay be true, yet ſtill they had it but from Dr. <hi>Gauden</hi> himſelf; and we ſee Mr. <hi>Long</hi> ſtill living teſtifies, that Biſhop <hi>Gauden</hi> declared to him often <hi>that he</hi> (the Biſhop) <hi>was fully conconc'd that Icon Baſilike was intirely</hi> King Charles I. Work; and therefore not his own, whatever he might ſay to gain Credit with his wife and Chaplain.</p>
+               <p n="7">7. <hi>Toland</hi>'s Story in <hi>Amyator</hi> about King <hi>James's</hi> denying his Letters Patent, to Mr. <hi>Chiſwel,</hi> is all Lye, not a word of Truth, as appears from Sir <hi>Roger L'Eſtrange</hi>'s Letter of <hi>May</hi> 5. 1699 to Mr. <hi>Wagſtaff,</hi> who only could know the truth of that matter.</p>
+               <p n="8">8. My Lord <hi>Clarendon</hi> in his Letter of <hi>May</hi> 5. 99. to Mr. <hi>Wagſtaff,</hi> declares that he is of opinion his Father (my Lord Chancellor <hi>Hyde</hi>) and Biſhop <hi>Morley</hi> looked upon it to be King <hi>Charles</hi> his own Work, becauſe Biſhop <hi>Mor<g ref="char:EOLhyphen"/>ley,</hi> with whom he was very intimate, deſired him to tell his Father <hi>that there were ill Men about</hi> King Charles II. <hi>who endeavour'd to perſwade him his Father was not Author of</hi> Icon Baſilike, which the Biſhop would never have ſaid had he known Dr. <hi>Gauden</hi> to be the Author: And when he told his Father, he ſaid <hi>Good God, I thought the Marquiſs of</hi> Hertford <hi>had ſatisfied the King in that matter;</hi> which ſays his Lordſhip (and We muſt allow his Lordſhip the beſt to underſtand his Father's meaning) I underſtood he meant <hi>the Marquis had told him his Father was the Author of it.</hi>
+               </p>
+               <p n="9">9. Mrs. <hi>Gauden</hi> ſays, <hi>That when</hi> Icon Baſilike <hi>was publiſh'd, it enraged the Parliament ſo, that her Husband, con<g ref="char:EOLhyphen"/>cerning his Life and Eſtate in Danger, fled to Sir</hi> John Wentworth<hi>'s near</hi> Yarmouth, <hi>intending thence to paſs the Seas; but Mr.</hi> Symonds <hi>falling Sick and dying, and her Husband not being diſcover'd, be alter'd his purpoſe, and return'd home.</hi> Now if ever Dr. <hi>Gauden</hi> did, as Mrs. <hi>Gauden</hi> here ſays, or is made to ſay he did, this ſeems to be the plain Engliſh of it: <hi>None but Mr.</hi> Symonds <hi>knew that Doctor</hi> Gauden <hi>had taken a Copy of the King's Book (which as things then ſtood was a very high Crime, if the Party ſhould be diſcover'd who had teſtifi'd ſo much affection to the King as to tranſcribe it) the Dr. therefore fled, but hearing Mr.</hi> Symonds <hi>was dead, who he knew was the only man could hurt him by a diſcovery, he return'd home:</hi> And this is the more probable interpretation of what Mrs. <hi>Gauden</hi> ſays, Becauſe had <hi>Dr. Gauden really been the Author of the Book, he muſt have been in Danger of a diſcovery from my Lord Chancellor</hi> Hyde, <hi>My Lord</hi> Capel, <hi>the Lord Marqueſs of</hi> Hertford, <hi>Biſhop</hi> Duppa, <hi>Biſhop</hi> Morley, <hi>Dr.</hi> Walker, Dr. Gifford, <hi>Mrs.</hi> Gauden, <hi>Mr.</hi> Peacock, <hi>&amp;c. (who are all ſaid to have been privy to Dr.</hi> Gauden<hi>'s being the Author, tho, by the way, it was never ſaid ſo till after they were all dead) as much or rather more than from Mr.</hi> Symonds, <hi>who was the Kings Chaplain and one of his faſteſt Friends, even to Death: Therefore had Dr.</hi> Gauden <hi>been afraid of being diſcover'd for the</hi> Author <hi>(not the Copier) he would not have return'd till all the above named perſons had been dead as well as</hi> Mr. Symonds, <hi>or at leaſt till a change of Government came when it ſhould be more ſafe to return.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed and are to be Sold by <hi>J. Nutt,</hi> near <hi>Stationers</hi>-Hall. Price three Pence.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
